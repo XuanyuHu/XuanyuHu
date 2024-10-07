@@ -7,13 +7,19 @@
 😎 About me 😎
 ---
     
-With over a decade of experience in full-stack development, I specialize in creating secure and scalable solutions for the healthcare industry. My expertise includes SSO integrations (SAML 2.0, OpenID Connect), OAuth 2.0, and healthcare data standards like HL7 and FHIR. I'm also proficient in Healthcare EDI processes (270/271 Eligibility) to ensure compliant data exchange.
+With over a decade of experience in full-stack 🖥️ development, I specialize in creating 🔒 secure and 📈 scalable solutions for the 🏥 healthcare industry, focusing on integrating 💻 technology seamlessly with healthcare needs.
 
-I am committed to upholding the highest standards of security and privacy, ensuring full compliance with regulations such as HIPAA, GDPR, and HITRUST.
+My expertise includes 🔑 Single Sign-On (SSO) integrations, such as SAML 2.0 and OpenID Connect, and implementing OAuth 2.0 for 🔐 secure authorization and authentication.
 
-On the backend, I develop reliable systems using Node.js, Express, and Ruby on Rails, with MySQL and Redis for data management. On the frontend, I build responsive web applications with React.js, Next.js, TypeScript, and Tailwind CSS.
+I also bring deep knowledge in interoperability standards like HL7, FHIR, and 🏥 Healthcare EDI, enabling efficient 🔄 data exchange across systems. All recent projects utilized Mirth® Connect by NextGen Healthcare for seamless integration.
 
-Additionally, I have experience in AWS cloud infrastructure, Docker, Kubernetes, and CI/CD pipelines with GitHub Actions and Jenkins, driving automation and efficient deployment.
+This included 📄 CCD integration into Epic systems, enabling secure document exchange with direct C-CDA and PDF workflows. Additionally, FHIR and Carequality/Commonwell were used for enhanced EMR data sharing. HL7 MDM was implemented for secure 🗄️ medical data management.
+
+On the backend, I develop high-performance systems with Node.js and Express, using MySQL and Redis for efficient 📊 data management. My frontend development uses React.js and Next.js to deliver intuitive user experiences.
+
+I have extensive experience designing scalable ☁️ cloud infrastructure on AWS and Azure, utilizing Docker 🐳 and Kubernetes for container orchestration, and automating CI/CD pipelines with GitHub Actions and Jenkins.
+
+My mission is to drive advancements in 🏥 healthcare through 💻 technology, focusing on improving operational efficiency, enhancing 🧑‍⚕️ patient outcomes, and creating seamless workflows.
 
 🔥 Skills 🔥
 ---
